@@ -1,0 +1,16 @@
+C:\Users\vickm\source\repos\Form1\Form1\bin\Debug\netcoreapp3.1\WindowForm.exe
+C:\Users\vickm\source\repos\Form1\Form1\bin\Debug\netcoreapp3.1\WindowForm.deps.json
+C:\Users\vickm\source\repos\Form1\Form1\bin\Debug\netcoreapp3.1\WindowForm.runtimeconfig.json
+C:\Users\vickm\source\repos\Form1\Form1\bin\Debug\netcoreapp3.1\WindowForm.runtimeconfig.dev.json
+C:\Users\vickm\source\repos\Form1\Form1\bin\Debug\netcoreapp3.1\WindowForm.dll
+C:\Users\vickm\source\repos\Form1\Form1\bin\Debug\netcoreapp3.1\WindowForm.pdb
+C:\Users\vickm\source\repos\Form1\Form1\obj\Debug\netcoreapp3.1\Form1.Form1.resources
+C:\Users\vickm\source\repos\Form1\Form1\obj\Debug\netcoreapp3.1\WindowForm.csproj.GenerateResource.cache
+C:\Users\vickm\source\repos\Form1\Form1\obj\Debug\netcoreapp3.1\WindowForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vickm\source\repos\Form1\Form1\obj\Debug\netcoreapp3.1\WindowForm.AssemblyInfoInputs.cache
+C:\Users\vickm\source\repos\Form1\Form1\obj\Debug\netcoreapp3.1\WindowForm.AssemblyInfo.cs
+C:\Users\vickm\source\repos\Form1\Form1\obj\Debug\netcoreapp3.1\WindowForm.csproj.CoreCompileInputs.cache
+C:\Users\vickm\source\repos\Form1\Form1\obj\Debug\netcoreapp3.1\WindowForm.dll
+C:\Users\vickm\source\repos\Form1\Form1\obj\Debug\netcoreapp3.1\WindowForm.pdb
+C:\Users\vickm\source\repos\Form1\Form1\obj\Debug\netcoreapp3.1\WindowForm.genruntimeconfig.cache
+C:\Users\vickm\source\repos\Form1\Form1\obj\Debug\netcoreapp3.1\WindowForm.csproj.AssemblyReference.cache
